@@ -2,7 +2,7 @@
 
 shortest string representations of erlang floats
 
-copyright 2010, 2012 alisdair sullivan
+copyright 2010 alisdair sullivan
 
 nicedecimal is released under the terms of the [MIT][MIT] license
 
