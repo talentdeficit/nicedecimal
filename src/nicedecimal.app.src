@@ -1,0 +1,14 @@
+{application, nicedecimal,
+[
+    {description, "a tiny library for outputting shortest string representations of ieee754 floats in erlang"},
+    {vsn, "1.0"},
+    {modules, [
+        nicedecimal
+    ]},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env, []}
+]}.

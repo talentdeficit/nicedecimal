@@ -1,0 +1,14 @@
+## nicedecimal (v1.0) ##
+
+shortest string representations of erlang floats
+
+copyright 2010, 2012 alisdair sullivan
+
+nicedecimal is released under the terms of the [MIT][MIT] license
+
+to build nicedecimal, `make` or `./rebar compile`
+
+
+### api ###
+
+nicedecimal only exports one function. `format/1` takes an erlang float as an argument and returns a printable string representation of that float that, when intepreted by another erlang process (via list_to_float, most likely), returns the same float
