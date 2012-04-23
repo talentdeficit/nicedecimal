@@ -1,3 +1,6 @@
+note that this project was started at a time when float_to_list exhibited poor behaviour but this has since been fixed, rendering this project rather pointless. it remains up for historical reasons, but you should probably not be using it
+
+
 ## nicedecimal (v1.0) ##
 
 shortest string representations of erlang floats
